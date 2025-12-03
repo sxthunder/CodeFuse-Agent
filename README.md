@@ -3,9 +3,9 @@
 </div>
 
 ## CodeFuse-Agent
-**Codefuse-APAR** is a state-of-the-art framework for Automated Program Repair (APR) designed to significantly enhance the accuracy and efficiency of software bug fixes through a multi-dimensional, multi-layered strategy. While traditional APR methods are often confined to single-path searches, Codefuse-APAR innovatively combines **Step-wise Optimization** with **Trajectory-wise Verification**, building a dynamic, robust, and scalable repair system.
+**Codefuse-Agent** is a state-of-the-art framework for Automated Program Repair (APR) designed to significantly enhance the accuracy and efficiency of software bug fixes through a multi-dimensional, multi-layered strategy. While traditional APR methods are often confined to single-path searches, Codefuse-Agent innovatively combines **Step-wise Optimization** with **Trajectory-wise Verification**, building a dynamic, robust, and scalable repair system.
 
-We believe that high-quality code repair requires not only powerful generation capabilities but also precise judgment and verification mechanisms. Codefuse-APAR is built to solve this core challenge.
+We believe that high-quality code repair requires not only powerful generation capabilities but also precise judgment and verification mechanisms. Codefuse-Agent is built to solve this core challenge.
 
 > 📦 **Note**: Core code is being prepared and will be open-sourced soon. Stay tuned!
 
@@ -13,13 +13,13 @@ We believe that high-quality code repair requires not only powerful generation c
 
 ## 🚀 Core Features
 
-The core capabilities of Codefuse-APAR are built upon two synergistic strategies:
+The core capabilities of Codefuse-Agent are built upon two synergistic strategies:
 
 ### 🛠️ PyCfuse
 框架
 
 ### 🛠️ TTS
-![Codefuse Apar TTS FrameWork](./images/TTS.png)
+![Codefuse Agent TTS FrameWork](./images/TTS.png)
 #### 🧭 Strategy 1: Step-wise Repair - Intelligent Path Exploration
 
 This strategy focuses on how to efficiently explore and sample the most promising repair paths during the patch generation process.
