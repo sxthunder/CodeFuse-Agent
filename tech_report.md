@@ -33,7 +33,7 @@ We observed that 88% of instances (440/500) included self-generated tests during
 
 **Finding 2: Multiple rollouts reveal stronger collective potential.**
 
-![](./images/oracle_vs_adversary_performance.png)
+<img src="./images/oracle_vs_adversary_performance.png" width="48">
 
 **Influence of attempt count to overall performance**
 
